@@ -175,7 +175,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               'Register new account',
               style: context.text.headlineLarge!.copyWith(
                 fontWeight: FontWeight.bold,
-                color: context.color.onBackground,
+                color: context.color.onSurface,
               ),
               textAlign: TextAlign.center,
             ),

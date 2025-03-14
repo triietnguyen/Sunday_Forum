@@ -14,7 +14,7 @@ class RouteName {
   static const String profile = '/profile';
   static const String register = '/register';
 
-  static const publicRoutes = [
+   static const publicRoutes = [
     login,
     register,
   ];
